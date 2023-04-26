@@ -456,7 +456,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition-property: backround-color;
+  transition-property: background-color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -488,7 +488,7 @@ img {
   padding: 12px 24px;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
-  transition-property: border-color, color, backround-color, box-shadow;
+  transition-property: border-color, color, background-color, box-shadow;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
