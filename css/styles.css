@@ -108,7 +108,7 @@ img {
   background-color: var(--pressed-state);
   position: absolute;
   left: 0;
-  bottom: 0;
+  bottom: -1px;
 }
 
 .list {
